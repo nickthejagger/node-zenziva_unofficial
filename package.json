@@ -1,0 +1,22 @@
+{
+  "name": "node-zenziva_unofficial",
+  "version": "1.0.0",
+  "description": "unofficial node module for zenziva",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickthejagger/node-zenziva_unofficial.git"
+  },
+  "keywords": [
+    "zenziva"
+  ],
+  "author": "nichola indra",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nickthejagger/node-zenziva_unofficial/issues"
+  },
+  "homepage": "https://github.com/nickthejagger/node-zenziva_unofficial#readme"
+}
