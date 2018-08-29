@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/nickthejagger/node-zenziva_unofficial/issues"
   },
-  "homepage": "https://github.com/nickthejagger/node-zenziva_unofficial#readme"
+  "homepage": "https://github.com/nickthejagger/node-zenziva_unofficial#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "urlencode": "^1.1.0"
+  }
 }
