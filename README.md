@@ -3,7 +3,7 @@
 Unofficial simple zenziva sms package. Right now only supported SMS Reguler, and SMS Masking.
 ## Installation
 ```bash
-$ npm install 
+$ npm i node-zenziva_unofficial
 ```
 ### Requirements
 * Latest nodejs
